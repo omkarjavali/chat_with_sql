@@ -36,11 +36,15 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
+## Live App Link
+🔗 https://chatwithsql-1.streamlit.app/
+
 ## 🛠️ How It Works
 
 1️⃣ Connect to your MySQL database 🔗
 
 2️⃣ Enter your GROQ API key 🔑
+- use the following link to generate your api key: https://console.groq.com/keys
 
 3️⃣ Ask questions like:
 - "What are the top 5 customers by total orders?"
