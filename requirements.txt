@@ -5,3 +5,8 @@ langchain-openai>=0.0.2
 openai>=1.0.0
 faiss-cpu>=1.7.4
 mysql-connector-python>=8.0.0
+python-dotenv
+langchain-core
+langchain-community
+langchain-groq
+urllib3
