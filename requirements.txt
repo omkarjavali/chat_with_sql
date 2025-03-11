@@ -1,0 +1,7 @@
+streamlit>=1.26.0
+pandas>=2.0.0
+langchain>=0.0.267
+langchain-openai>=0.0.2
+openai>=1.0.0
+faiss-cpu>=1.7.4
+mysql-connector-python>=8.0.0
