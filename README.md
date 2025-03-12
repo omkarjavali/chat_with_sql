@@ -36,9 +36,6 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-## Live App Link
-🔗 https://chatwithsql-1.streamlit.app/
-
 ## 🛠️ How It Works
 
 1️⃣ Connect to your MySQL database 🔗
